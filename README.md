@@ -1,4 +1,4 @@
-# Hello World – Flask
+# Hello World – Flask 1.0
 
 Projeto desenvolvido como atividade prática de laboratório da disciplina **Desenvolvimento Web Full**.
 
